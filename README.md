@@ -1,4 +1,4 @@
-# tensor_programmin_mine_swiper
+# tensor_programming_mine_sweeper
 
 A new Flutter application.
 
